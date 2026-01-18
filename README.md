@@ -36,5 +36,4 @@ It includes conceptual modeling, logical design, and SQL implementation, with a 
 Bachelor’s student in Digital Economics & Business  
 Università Politecnica delle Marche
 
-## 📄 License
-This project is for academic purposes.
+
